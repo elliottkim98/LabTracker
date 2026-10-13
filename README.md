@@ -30,3 +30,17 @@ npm run build
 This project is designed to deploy directly to Vercel from GitHub.
 
 > Portfolio demo only. It is not a validated GxP/LIMS system and should not be used for regulated laboratory records.
+>
+> # LabTracker
+
+A laboratory sample and inventory tracking dashboard built with React and Vite.
+
+**Live Demo:** [https://lab-tracker-drab.vercel.app/](https://lab-tracker-drab.vercel.app/)
+
+## Features
+- Track laboratory samples
+- Monitor sample status and due dates
+- Manage inventory and low-stock alerts
+- View storage locations and capacity
+- Search and filter records
+- Persistent browser storage with localStorage
